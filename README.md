@@ -17,6 +17,7 @@ The dataset includes variables such as:
 - **Speed Limit:** The legal speed at the accident site.  
 - **Weather Conditions:** Rain, fog, snow, etc.  
 - **Time of Day:** Day or night impact analysis.
+To process data, a United Kingdom dataset, which includes names of cities, important places, towns, etc, has been used. Data can be downloaded here: https://download.geonames.org/export/dump/GB.zip
 
 ## Results  
 The performance of the models is evaluated using key metrics such as **accuracy, precision, recall, and F1-score**. Below is a comparison of the results:  
