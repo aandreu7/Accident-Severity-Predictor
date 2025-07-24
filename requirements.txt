@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+geopy
+plotly
+imbalanced-learn
+xgboost
+scipy
+torch
+torchvision
+torchaudio
+openpyxl
+nbformat
